@@ -1,15 +1,15 @@
-# hacktoberfest-challenge
-Python missions beginner level 
+# Hacktoberfest-challenge
+# Python missions beginner level 
 ![HacktoberFest 2021](https://github.com/Divya2k05/hacktoberfest-challenge/blob/main/logo/logo.png)
-##Python Challenge for beginners 
+## Python Challenge for beginners 
  **[Register](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab 🔥 FREE SWAGS 🔥.**
  ## INSTRUCTIONS-
  
- PRs That gets accepted:
+ ### PRs That gets accepted:
  - 🤓 Check the issues on this repo and request to assign a issue which you are comfortable with .
  - 🤓 solve the issue and raise a pull request.
  - 🤓 Wait for your pull request to be reviewed and merged.
- PRs That gets rejected:
+ ### PRs That gets rejected:
  - 🥺 Don't create your own files, edit in present files.
  - 🥺 programs which are irrevalent to the issues.
  - 🥺 Don't push in main branch .

@@ -1,6 +1,6 @@
 # hacktoberfest-challenge
 Python missions beginner level 
-![HacktoberFest 2021](https://github.com/nephophilic/hacktoberfest-challenge/raw/main/logo/logo.png)
+![HacktoberFest 2021](https://github.com/Divya2k05/hacktoberfest-challenge/blob/main/logo/logo.png)
 ##Python Challenge for beginners 
  **[Register](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab 🔥 FREE SWAGS 🔥.**
  ## INSTRUCTIONS-

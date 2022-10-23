@@ -1,8 +1,10 @@
 # Try to find out how many zeros a given number has at the end.
 
 def end_zeros(num: int) -> int:
-    #your code here 
-    return None
+    for x in str(num)[::-1]:
+        if  x != '0':
+            return str(num)[::-1].find(x)
+    return len(str(num))
     
 print('Example:')
 print(end_zeros(10))

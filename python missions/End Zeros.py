@@ -5,8 +5,7 @@ def end_zeros(num: int) -> int:
         if  x != '0':
             return str(num)[::-1].find(x)
     return len(str(num))
-
-
+    
 print('Example:')
 print(end_zeros(10))
 

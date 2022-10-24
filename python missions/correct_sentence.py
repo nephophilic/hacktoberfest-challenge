@@ -1,7 +1,6 @@
 # You have to return a corrected version, that starts with a capital letter and ends with a period (dot).
 def correct_sentence(text: str) -> str:
-   
-   # your code here
+    # your code here
    
     return None
 
@@ -11,6 +10,7 @@ print(correct_sentence("happy Diwali."))
 
 
  # These "asserts" are used for self-checking and not for an auto-testing
+
 assert correct_sentence("greetings, friends") == "Greetings, friends."
 assert correct_sentence("Greetings, friends") == "Greetings, friends."
 assert correct_sentence("Greetings, friends.") == "Greetings, friends."
@@ -23,6 +23,6 @@ assert correct_sentence("happy coding") == "Happy coding."
 
 print("The mission is done! ")
 
-# expected output :
+# expected output: 
 #Happy Diwali.
 #The mission is done!

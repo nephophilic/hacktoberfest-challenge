@@ -1,8 +1,10 @@
 # You have to return a corrected version, that starts with a capital letter and ends with a period (dot).
 def correct_sentence(text: str) -> str:
-    # your code here
-   
-    return None
+     text=text[0].upper()+text[1:]
+     if '.' in text:
+        return(text)
+     else :
+        return (text+'.')
 
 
 print("Example:")
